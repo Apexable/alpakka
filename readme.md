@@ -1,8 +1,8 @@
 # Alpakka Update plan:
---1. Pin extension changed to 74HC165;
---2. Change the right stick to ADC sampling;
---3. Increase motor vibration;
---4. Add wireless functionality
+- 1. Pin extension changed to 74HC165;
+- 2. Change the right stick to ADC sampling;
+- 3. Increase motor vibration;
+- 4. Add wireless functionality
 
 *Alpakka controller reference firmware (for Raspberry Pi RP2040)*
 ## Project links
