@@ -1,6 +1,10 @@
-# Alpakka Firmware
+# Alpakka Update plan:
+--1. Pin extension changed to 74HC165;
+--2. Change the right stick to ADC sampling;
+--3. Increase motor vibration;
+--4. Add wireless functionality
 
-*Alpakka controller reference firmware (for Raspberry Pi Pico)*
+*Alpakka controller reference firmware (for Raspberry Pi RP2040)*
 ## Project links
 - [Alpakka Manual](https://inputlabs.io/devices/alpakka/manual).
 - [Alpakka Firmware](https://github.com/inputlabs/alpakka_firmware). _(you are here)_
